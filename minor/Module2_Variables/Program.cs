@@ -21,5 +21,23 @@ using System.Reflection.Metadata;
 //decimal particlesPerMillion;
 //bool processedCustomer;
 
-var message = "Hello world!";
-Console.WriteLine(message);
+// var message = "Hello world!";
+// Console.WriteLine(message);
+
+// CHALLANGE
+
+var firstName = "Bob";
+var messages = 3;
+var temprature = 34.4;
+
+Console.Write("Hello, ");
+Console.Write(firstName);
+Console.Write("You have ");
+Console.Write(messages);
+Console.Write(" messages ");
+Console.Write("in your inbox. ");
+Console.Write("The temprature is ");
+Console.Write(temprature);
+Console.Write(" celsius.");
+
+

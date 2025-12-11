@@ -8,9 +8,23 @@
 //Console.WriteLine(true);
 //Console.WriteLine(false);
 //VARIABLES
-string firstName;
-char userOption;
-int gameScore;
-decimal pariclesPerMillion;
-bool processedCustomer;
+using System.Reflection.Metadata;
+
+// string firstName;
+// firstName = "Bob";
+// Console.WriteLine(firstName);
+// firstName = "Liem";
+// Console.WriteLine(firstName);
+// firstName = "Isabella";
+// Console.WriteLine(firstName);
+// firstName = "Yasmin";
+// Console.WriteLine(firstName);
+string firstName = "Bob";
+Console.WriteLine(firstName);
+
+//char userOption;
+//userOption = 
+//int gameScore;
+//decimal particlesPerMillion;
+//bool processedCustomer;
 

@@ -15,6 +15,19 @@ using System.Net.Security;
 // Console.WriteLine(@"    c:\sources\repos
 //       (this is where your code goes)");
 
-string firstName = "Bob";
-string greeting = "Hello";
-Console.WriteLine(greeting + " " + firstName + "!");
+// string firstName = "Bob";
+// string greeting = "Hello";
+// string message = $"{greeting} {firstName}!";
+// Console.WriteLine(message);
+
+// string firstName = "Bob";
+// string message = $"Hello {firstName}!";
+// Console.WriteLine(message);
+
+// int version = 11;
+// string updateText = "Update to Windows";
+// string message = $"{updateText} {version}";
+// Console.WriteLine($"{updateText} {version}");
+
+string projectName = "First-Project";
+Console.WriteLine($@"C:\Output\{projectName}\Data");

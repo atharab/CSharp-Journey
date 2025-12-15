@@ -36,8 +36,8 @@ Console.Write("You have ");
 Console.Write(messages);
 Console.Write(" messages ");
 Console.Write("in your inbox. ");
-Console.Write("The temprature is ");
+Console.Write("The temprature is_");
 Console.Write(temprature);
-Console.Write(" celsius.");
+Console.Write("celsius");
 
 
